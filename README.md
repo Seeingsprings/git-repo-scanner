@@ -1,7 +1,4 @@
-# git-repo-scanner
-一个轻量级批处理脚本，帮助你在 Windows 上快速查找所有本地 Git 仓库。
-
-# Git 仓库扫描器
+# Git 仓库扫描器 git-repo-scanner
 
 一个轻量级批处理脚本，帮助你在 Windows 上查找所有本地 Git 仓库。
 
@@ -13,6 +10,11 @@
 
 ## 💻 使用方法
 1. 下载 `scan_git_repos.bat`
-2. 修改 `ROOT_PATH` 变量（如 `C:\Users\` 或 `D:\`）
+2. 修改 `ROOT_PATH` 变量（如 `C:\Users\` 或 `D:\`，默认是`D:\`）
 3. 双击运行
 4. 在命令行中查看结果
+
+示例输出：
+
+<img width="1740" height="658" alt="image" src="https://github.com/user-attachments/assets/1ba165ab-6ad3-4dbd-9156-fde367f7f466" />
+
