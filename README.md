@@ -23,5 +23,6 @@
 
 示例输出：
 
-<img width="1740" height="658" alt="image" src="https://github.com/user-attachments/assets/1ba165ab-6ad3-4dbd-9156-fde367f7f466" />
+<img width="1637" height="765" alt="image" src="https://github.com/user-attachments/assets/a16992b3-a5ab-439a-b1bf-c8a19af4d053" />
+
 
